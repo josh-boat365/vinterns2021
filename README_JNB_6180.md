@@ -15,4 +15,5 @@
     ## **🤓My Objective🌈🦄🌟**
     ## I Aspire to become a Software Engineer and an AI Specialist in Robotics 👨‍💻
     ## I love to learn more cloud computing, machine learning, AI, robotics and blockchain.
+    ## I love 🤓👨‍💻 to solve problems and create solutions.🌈🦄🌟
     
