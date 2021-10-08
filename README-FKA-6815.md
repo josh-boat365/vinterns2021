@@ -1,13 +1,16 @@
-## Awortwe Felix Kwamena
+## Awortwe Felix Kwamena here 👋
 
 **I live for the pursuit of Knowledge**  
 
-
-Currently Project Manager for REL ( relgh.com ),
- Learning from Nikola Tesla, i am aspiring to be an Entrepreneur,Cloud Engineer, Climate Scientist, Software Developer and Inventor.
- I am a Writer and Poet and i fully support  UN Sdg's, i am also God fearing and a Good Christian .
-
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQELPVaWYZVk4Q/profile-displayphoto-shrink_800_800/0/1606950045787?e=1639008000&v=beta&t=3GAQdHdnlrIip7jORAGioefAw1j4n53ayEkfnHyKxLM" alt="A picture of Awortwe Felix Kwamena" align="left" width = "200px" height = "200px">
+Currently Project Manager for REL ( relgh.com ),<br>
+ Learning from Nikola Tesla, i am aspiring to be an Entrepreneur,<br>Cloud Engineer, Climate Scientist, Software Developer and Inventor.<br>
+ I am a Writer and Poet and i fully support  UN Sdg's,<br> i am also God fearing and a Good Christian.
+ <br>Learning from IBM nation Africa,Enactus Knust
+ <br>Data Mavens Ltd, Andela, Pluralsight,Google Developers (Knust),
+ <br> Youtube, Coursera , Programing hub , edx , Udemy and Everything 
  
+
 
 ### Have  knowledge in -
  
@@ -22,7 +25,6 @@ Currently Project Manager for REL ( relgh.com ),
 *  Microsoft Word,Excel and PowerPoint 
 * Canva and Adobe Xd
 
-* Learning from IBM nation Africa,Enactus Knust,Data Mavens Ltd, Andela, Pluralsight  and Google Developers (Knust)
 
 
 
@@ -34,8 +36,9 @@ Available for Volunteer work, Remote work and Open source projects .
 [Facebook](https://web.facebook.com/felix.awortwe.315) ,
 [Twitter](https://twitter.com/KwamenaFelix) ,
 [Linkedin](https://www.linkedin.com/in/felix-awortwe-kwamena-%F0%9F%87%AC%F0%9F%87%AD-4644a7140/) ,
-[Email](felixawortwe14@gmail.com) ,
-[Phone](+233544956815)
+[Email](mailto:felixawortwe14@gmail.com)
+
+
 
 
 
